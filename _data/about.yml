@@ -24,7 +24,7 @@
   image: "1.jpg"
   img-alt: "Intro to GSoD and its Importance"
   title: "Intro to GSoD and its Importance"
-  text: " ***TALK***"
+  text: " Introduction to Google Summer of Docs and the its relevance"
   side: left
 
 
@@ -45,10 +45,10 @@
 
 
 
-- by: "speakername"
+- by: ""
   image: "3.jpg"
-  img-alt: "Conclusion"
-  title: "Conclusion"
+  img-alt: "Vote of Thank"
+  title: "Vote of Thank"
   text: "Information on Winter Of Code (to be conducted in December). Summarizing the evening.
 "
   side: right
