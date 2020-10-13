@@ -229,18 +229,28 @@ section {
     font-size: 60px;
     margin-top: 0;
     margin-bottom: 15px;
-    color: rgb(108, 210, 222);
+    color: rgb(193, 249, 255);
   }
   h3.section-subheading {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-transform: none;
+    font-weight: bolder;
     text-align: justify;
     line-height: 30px;
     word-spacing: 7px;
     font-weight: 400;
-    margin-bottom: 75px;
-    color: rgba(108, 211, 222, 0.719);
+    color: rgb(193, 249, 255);
+
+  }
+  .subtext{
+    span{
+      color: rgba(108, 211, 222, 0.719);
+    }
+      color: rgb(193, 249, 255);
+      // color: red;
+    margin-bottom: 100px;
+    font-size: 400%;
   }
 }
 
